@@ -2,8 +2,8 @@
 
 ### Built With React, NextJS, Chakra UI
 
-# [Tutorial]()
+# [Tutorial](https://youtu.be/N5CtgyQHjAE)
 
-# [App Demo]()
+# [App Demo](https://github-user-finder-yt.vercel.app/)
 
 ![Screenshot of App](https://i.ibb.co/pxpdkGm/2.png)
